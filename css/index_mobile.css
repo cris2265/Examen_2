@@ -1,0 +1,46 @@
+.enca {
+    display: flex;
+    justify-content: center;
+}
+.per {
+    display: flex;
+    align-items: center;
+}
+.enca span {
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+.logo {
+    width: 8rem;
+    border-radius: 8rem;
+}
+.lis {
+    display: none;
+}
+.information {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 0rem 0rem 3rem;
+}
+.cja {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem 3rem 5rem 3rem;
+}
+.cja img{
+    width: 35rem;
+}
+.cja h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+.cja span {
+    font-size: 1.7rem;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
